@@ -1,0 +1,4 @@
+.gitignore
+sip-*
+PyQt5_gpl*
+README.md
